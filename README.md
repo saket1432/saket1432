@@ -1,27 +1,29 @@
 <h1 align="center">Hi, I'm Saket Devarasetty 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Problem Solver</b>
+  <b>B.Tech CSE (Core) Student | AI/ML Enthusiast | Problem Solver</b>
 </p>
+
+
 ---
 
 ## 👋 About Me
 
-🎓 **B.Tech – Computer Science & Engineering (AI & ML)**  
+🎓 **B.Tech – Computer Science & Engineering **  
 🏫 **SRM Institute of Science and Technology, Chennai**  
 📍 India  
 
-I am a Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, and data-driven problem solving**.  
-I enjoy applying theoretical concepts to **real-world problems** through projects, internships, and research-oriented learning.
+I am a Computer Science undergraduate with a strong interest in **Artificial Intelligence and Machine Learning**.  
+I enjoy applying theoretical concepts to **real-world problems**, building **data-driven projects**, and strengthening my **core CS fundamentals**.
 
 ---
 
 ## 🧠 Areas of Interest
 
 - Artificial Intelligence & Machine Learning  
-- Data Analysis & Model Building  
-- Problem Solving & Algorithms  
-- Research & Practical Applications of AI  
+- Data Analysis & Model Development  
+- Algorithms & Problem Solving  
+- Research-oriented Learning  
 
 ---
 
@@ -32,28 +34,73 @@ I enjoy applying theoretical concepts to **real-world problems** through project
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🤖 AI / ML Tools
+### 🤖 AI / ML Tools & Libraries
+
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-- **AI / ML Mini Projects** – Model building and experimentation  
-- **Academic Projects** – Applying ML concepts to practical datasets  
-- **Problem Solving** – Algorithmic challenges and coding practice  
+### 🔹 AI-Powered Traffic Management System
+- Designed an **AI-based traffic control solution** to prioritize emergency vehicles  
+- Focused on **healthcare emergency scenarios**  
+- Emphasis on system design, AI logic, and simulation  
 
-*(More projects coming soon 🚀)*
+### 🔹 Inventory Management System
+- Developed a **database-driven system** using MySQL and Java  
+- Implemented **normalization, triggers, procedures, and constraints**  
+- Focused on backend logic and data integrity  
+
+### 🔹 AI / ML Academic Mini Projects
+- Implemented **machine learning algorithms** on real datasets  
+- Hands-on experience with data preprocessing and model evaluation  
+
+*(Repositories will be linked as projects are refined 🚀)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saket1432&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket1432&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+- 🟩 **LeetCode:** https://leetcode.com/  
+- 🟨 **HackerRank:** https://www.hackerrank.com/  
+
+*(Actively practicing Data Structures & Algorithms)*
+
+---
+
+## 📜 Certifications & Learning
+
+- Machine Learning Foundations  
+- Python for Data Science  
+- SQL & Database Management  
+- Continuous learning through academic coursework and projects  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning Techniques  
+- Data Structures & Algorithms  
+- Research methodologies in Artificial Intelligence  
 
 ---
 
 ## 📫 Connect With Me
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/devarasettysaket/  
-📧 **Email:** saketd2005@gmail.com 
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ *Learning every day. Building step by step.*
