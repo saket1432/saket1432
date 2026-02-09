@@ -3,11 +3,6 @@
 <p align="center">
   <b>B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Problem Solver</b>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saket1432&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👋 About Me
@@ -38,10 +33,6 @@ I enjoy applying theoretical concepts to **real-world problems** through project
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🤖 AI / ML Tools
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,7 +52,7 @@ I enjoy applying theoretical concepts to **real-world problems** through project
 ## 📫 Connect With Me
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/devarasettysaket/  
-📧 **Email:** *(add if you want)*  
+📧 **Email:** saketd2005@gmail.com 
 
 ---
 
