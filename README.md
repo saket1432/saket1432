@@ -62,24 +62,6 @@ I enjoy applying theoretical concepts to **real-world problems**, building **dat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saket1432&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket1432&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 💻 Coding Profiles
-
-- 🟩 **LeetCode:** https://leetcode.com/  
-- 🟨 **HackerRank:** https://www.hackerrank.com/  
-
-*(Actively practicing Data Structures & Algorithms)*
-
----
-
 ## 📜 Certifications & Learning
 
 - Machine Learning Foundations  
